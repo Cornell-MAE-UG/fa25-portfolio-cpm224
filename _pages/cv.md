@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Caroline Moskal - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,30 +8,30 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [cpm224@cornell.edu](mailto:cpm224@cornell.edu) | | | **Phone:** +1 774-219-9744
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Mechanical Engineering with a specification in structural design. I also have a strong manufacturing background with experience in manual and CNC machining and TIG welding
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering*  
+  Graduation: May, 2027
 
-- **[High School Name]**  
+- **Falmouth High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June, 2023
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, Autodesk Inventor, CATIA, SolidWorks, ANSYS  
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing, Laser Cutting, Manual and CNC machining, TIG Welding  
 
 ---
 
@@ -49,10 +49,14 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Rivian - Intern**  
+  May, 2025 - August, 2025
+  - Cooling Testing for Stator Design 
+  - Copper Wound Motor Design R&D 
+- **Emerson Machine Shop - Manager**
+  February, 2024 - Present
+  - Integrating new machinery 
+  - Training new machinist 
 
 ---
 
@@ -63,8 +67,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of [Club/Organization Name]    
 
 ---
 
