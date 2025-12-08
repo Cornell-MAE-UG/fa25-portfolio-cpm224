@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+title: Milk Frother Dissection 
+description: System Dynamics Study
+technologies: MATLAB
 image: /assets/images/spaceship-design.jpg
 ---
 

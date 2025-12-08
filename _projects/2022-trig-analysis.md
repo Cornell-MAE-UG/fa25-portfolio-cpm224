@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
+title: Torque Wrench Anysis
+description: Structural Analysis of Torque Wrench
+technologies: Audodesk Fusion, ANSYS, MATLAB
 image: /assets/images/function-graph.png
 ---
 

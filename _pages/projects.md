@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: \Caroline Moskal - Portfolio
 permalink: /projects/
 ---
 
