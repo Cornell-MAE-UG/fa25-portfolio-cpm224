@@ -6,11 +6,9 @@ technologies: Hand Calcs(Energy Balance)
 image: "assets/images/Screenshot 2026-03-10 102923.png"
 ---
 
-When reflecting on the homework assignments in my MAE 3240, Heat Transfer class, I found the most interesting and educational to my Cornell experience was the second assignment, where we focused on heat flux through different geometries and generating a heat flux map from temperature profiles. 
+When reflecting on the homework assignments in my Heat Transfer class(MAE 3240), I found the most interesting and educational to my Cornell experience was the second assignment, where we focused on heat flux through different geometries and generating a heat flux map from temperature profiles. 
 
-I chose this problem set because I found that it connected the topics in heat transfer with a strong background in math, specifically calculus and differential equations. Something that made me really interested in starting an engineering degree in the first place. This problem set also connected the topics very well with real world properties, especially using geometries that we see every day, such as multiple surfaces with heat generations, and heat rejection from a cylinder. Creating a fundamental understanding of heat transfer in everyday products that we could later apply onto more complicated designs.
+I picked this problem set because I found that it connected the topics in heat transfer with a strong background in math, specifically calculus and differential equations. Something that made me really interested in starting an engineering degree in the first place. This problem set also connected the topics very well with real world properties, especially using geometries that we see every day, such as multiple surfaces with heat generations, and heat rejection from a cylinder. Creating a fundamental understanding of heat transfer in everyday products that we could later apply onto more complicated designs.
 
 Take a look at my assignment linked below!
 [Download my Report]({{ "assets/images/MAE3240 HW2.pdf" | relative_url }}) in PDF format.
-
----
