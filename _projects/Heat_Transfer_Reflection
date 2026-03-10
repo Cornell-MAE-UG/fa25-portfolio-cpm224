@@ -1,8 +1,9 @@
 ---
-layout: Project
-title: Studying Heat Flux
+layout: project
+title: Study Heat Flux
 description: Reflection of Heat Transfer Assignment
-technologies: Hand Calcs
+technologies: Hand Calcs(Energy Balance)
+image: "assets/images/Heat_Transfer"
 ---
 
 When reflecting on the homework assignments in my MAE 3240, Heat Transfer class, I found the most interesting and educational to my Cornell experience was the second assignment, where we focused on heat flux through different geometries and generating a heat flux map from temperature profiles. 
@@ -12,3 +13,4 @@ I chose this problem set because I found that it connected the topics in heat tr
 Take a look at my assignment linked below!
 [Download my Report]({{ "assets/images/MAE3240 HW2.pdf" | relative_url }}) in PDF format.
 
+---
