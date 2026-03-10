@@ -11,4 +11,8 @@ When reflecting on the homework assignments in my Heat Transfer class(MAE 3240),
 I picked this problem set because I found that it connected the topics in heat transfer with a strong background in math, specifically calculus and differential equations. Something that made me really interested in starting an engineering degree in the first place. This problem set also connected the topics very well with real world properties, especially using geometries that we see every day, such as multiple surfaces with heat generations, and heat rejection from a cylinder. Creating a fundamental understanding of heat transfer in everyday products that we could later apply onto more complicated designs.
 
 Take a look at my assignment linked below!
-[Download my Report]({{ "/assets/images/MAE3240 HW2.pdf" | relative_url }}) in PDF format.
+<iframe
+src="{{ '/assets/3240-ps2.pdf' | relative_url }}"
+width="100%"
+height="800px">
+</iframe>
