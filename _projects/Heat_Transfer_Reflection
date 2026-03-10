@@ -3,7 +3,7 @@ layout: project
 title: Study Heat Flux
 description: Reflection of Heat Transfer Assignment
 technologies: Hand Calcs(Energy Balance)
-image: "assets/images/Screenshot 2026-03-10 102923.png"
+image: "/assets/images/Screenshot 2026-03-10 102923.png"
 ---
 
 When reflecting on the homework assignments in my Heat Transfer class(MAE 3240), I found the most interesting and educational to my Cornell experience was the second assignment, where we focused on heat flux through different geometries and generating a heat flux map from temperature profiles. 
